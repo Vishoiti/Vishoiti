@@ -5,3 +5,12 @@ Sou um amante por tecnologia e aprendizado com o avanço da internet, estudando 
 
 Tenho como objetivo continuar evoluindo tanto minhas hard skills quanto soft skills para me tornar um Desenvolvedor Full Stack Completo. Viso também enfrentar desafios cada vez mais difíceis e aprender com eles para ter melhores oportunidades de crescer profissionalmente.
 
+### O que estou aprendendo 📚
+
+• Python: Implementação de lógica de programação á linguagem Python, revisando suas principais propriedades de uso.
+• JavaScript: Inicialmente as propriedades base, React junto com Vite, API.
+• HTML e CSS: Bases de Html, flexbox, grid-layout, e a manipulação do Tailwindcss.
+• Git e GitHub: Versionamento do Git no terminal, seus comandos essenciais, commits e complementação com a criação de repositórios.
+
+
+
