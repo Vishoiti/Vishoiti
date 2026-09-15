@@ -8,8 +8,11 @@ Tenho como objetivo continuar evoluindo tanto minhas hard skills quanto soft ski
 ### O que estou aprendendo 📚
 
 • Python: Implementação de lógica de programação á linguagem Python, revisando suas principais propriedades de uso.
+
 • JavaScript: Inicialmente as propriedades base, React junto com Vite, API.
+
 • HTML e CSS: Bases de Html, flexbox, grid-layout, e a manipulação do Tailwindcss.
+
 • Git e GitHub: Versionamento do Git no terminal, seus comandos essenciais, commits e complementação com a criação de repositórios.
 
 
